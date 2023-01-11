@@ -1,0 +1,5 @@
+.centered {
+  width: 50%; /* or any desired width */
+  margin: 0 auto;
+  text-align: center;
+}
